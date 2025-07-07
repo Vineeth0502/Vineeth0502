@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm passionate about creating efficient, scalable 
 ---
 
 ## 🌟 **About Me**
-- 🎓 **MS in Computer Science**, Saint Louis University (Expected May 2025)
+- 🎓 **MS in Computer Science**, Saint Louis University 
 - 💻 Enthusiastic about AI, deep learning, and full-stack development
 - 🏆 Hackathon Champion & IEEE Event Organizer
 - 🛠 Skilled in **Python**, **JavaScript**, **React.js**, **TensorFlow**, and more
