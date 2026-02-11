@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm passionate about creating efficient, scalable 
 - 🏆 Hackathon Champion & IEEE Event Organizer
 - 🛠 Skilled in **Python**, **JavaScript**, **React.js**, **TensorFlow**, and more
 
-🌐 [LinkedIn](https://www.linkedin.com/in/vineethketham/) | [GitHub](https://github.com/Vineeth0502) | [Portfolio](https://vineeth0502.github.io/vineeth-ketham-portfolio/)
+🌐 [LinkedIn](https://www.linkedin.com/in/vineethketham/) | [GitHub](https://github.com/Vineeth0502)
 
 ---
 
@@ -61,7 +61,6 @@ I strive to leverage cutting-edge technologies and innovation to solve real-worl
 📬 **Let's Connect**  
 Feel free to reach out to me:  
 📧 [kethamvineeth@gmail.com](mailto:kethamvineeth@gmail.com)  
-🌐 [Portfolio](https://vineeth0502.github.io/vineeth-ketham-portfolio/)
 
 ---
 
