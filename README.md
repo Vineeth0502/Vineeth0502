@@ -1,120 +1,114 @@
-# 👋 Hi, I'm Vineeth Ketham
+<h1 align="center">Hi 👋, I'm Vineeth Ketham</h1>
+<h3 align="center">🚀 AI Backend Engineer | RAG Systems | Distributed Systems | FastAPI</h3>
 
-🚀 **Software Engineer (Backend & AI Platforms) | ML & NLP | Full-Stack Developer**
-
-I build **scalable backend microservices**, **cloud-native AI systems**, and **high-performance APIs** across financial and enterprise platforms. My recent work focuses on **FastAPI / Flask**, **Spring Boot**, **RAG architectures**, and **MLOps on AWS** to deliver **low-latency**, **reliable (99.9% uptime)** production systems.
-
-📍 Temecula, California • 💼 Software Engineer (Backend, AI Platforms) @ PNC Financial Services  
-
----
-
-## 🌟 About Me
-
-- 🎓 **MS in Computer Science**, Saint Louis University (Aug 2023 – May 2025)  
-- 💼 **4+ years** building backend services, microservices, and AI-enabled applications  
-- 🧠 Focused on **NLP**, **RAG (Retrieval Augmented Generation)**, and **production ML pipelines**  
-- ☁ Experienced with **AWS (SageMaker, EC2, S3)**, **Docker**, and **CI/CD with GitHub Actions**  
-- 💡 Enjoy designing systems that are **performant**, **observable**, and **easy to ship**  
-
-🌐 [LinkedIn](https://www.linkedin.com/in/vineethketham/) | [GitHub](https://github.com/Vineeth0502)  
+<p align="center">
+  <a href="mailto:vineeth.k@myjobsmails.com">Email</a> •
+  <a href="https://www.linkedin.com/">LinkedIn</a> •
+  <a href="https://github.com/">GitHub</a> •
+  <a href="https://your-portfolio.com">Portfolio</a>
+</p>
 
 ---
 
-## 💻 Technical Stack (From Resume)
+## 🧠 About Me
 
-### 🧩 Backend & APIs
-- **Languages & Frameworks**: `Python`, `Java`, `FastAPI`, `Flask`, `Spring Boot`, `Node.js`, `Express`
-- **Architectures**: REST APIs, **Microservices**, **Asynchronous Processing**, API Gateway patterns
-- **Security**: `Spring Security`, `OAuth2`, `JWT`
+💡 AI Backend Engineer with **4+ years experience building production-grade GenAI systems**
 
-### 🎨 Frontend Development
-- **Core**: `JavaScript`, `TypeScript`, `React`, `Redux`, `HTML`, `CSS`
-- **Patterns**: Component-based architecture, state management, **data-driven dashboards**, responsive UI
-
-### 🗄 Databases & Data Processing
-- **Datastores**: `PostgreSQL`, `MongoDB`, `Redis`, SQL  
-- **Capabilities**: Query optimization, indexing, aggregation pipelines, **real-time data processing**, ETL
-
-### ☁ Cloud & DevOps
-- **Cloud**: `AWS` (EC2, S3, Lambda, SageMaker), `Heroku`
-- **DevOps**: `Docker`, CI/CD pipelines, `GitHub Actions`, containerized deployments, infra automation
-
-### 🧠 AI, ML & GenAI
-- **ML/AI**: Machine Learning, **GenAI**, **LLMs**, `NLP`, `TensorFlow`, `Keras`
-- **RAG & Retrieval**: Retrieval Augmented Generation, vector embeddings, semantic search  
-- **Tooling**: `OpenAI API`, `LangChain`, model training, **MLOps** for production workflows  
+- 🔥 Built **RAG pipelines (FastAPI + OpenAI + pgvector)** processing 2K+ daily records  
+- ⚡ Achieved **sub-900ms latency** under concurrent LLM load  
+- 📉 Reduced manual review by **32%** in financial systems  
+- ☁️ Strong in **AWS, distributed systems, event-driven architecture**  
+- 🧩 Passionate about **agentic AI systems & scalable backend architecture**
 
 ---
 
-## 💼 Experience Snapshot
+## 🚀 Highlights
 
-### 🔹 Software Engineer (Backend, AI Platforms) — PNC Financial Services  
-*Jan 2025 – Present | Remote, CA*
+- 🏦 **PNC Financial**
+  - Built production RAG system using **LangChain + OpenAI**
+  - Processed **2K+ documents/day**
+  - Reduced manual review by **32%**
+  - Designed **audit-compliant AI pipelines**
 
-- Built **Python FastAPI / Flask microservices** handling high-concurrency enterprise traffic, improving API response times by **28%**.  
-- Designed **NLP pipelines** for document classification and text analytics, boosting extraction accuracy by **22%**.  
-- Implemented **RAG architectures** combining vector embeddings with **PostgreSQL & MongoDB**, cutting retrieval latency by **31%**.  
-- Architected **cloud-native ML pipelines** on AWS (SageMaker, EC2, S3), accelerating model release cycles by **35%**.  
-- Automated CI/CD with **GitHub Actions + Docker**, reducing release defects by **40%** and standardizing deployments.  
-- Integrated **generative AI** into core applications, lowering server overhead by **15%** while maintaining **99.9% uptime**.  
+- ⚙️ **Distributed Systems @ Space Infolab**
+  - Built Kafka-based event pipelines → **31% less stale data**
+  - Multi-tenant SaaS architecture → **42% throughput gain**
+  - Secure APIs with OAuth2 + JWT
 
-### 🔹 Full Stack Developer — Space Infolab  
-*Jan 2021 – Aug 2023 | Remote, IN*
-
-- Delivered backend services using **Java, Spring Boot, microservices**, improving scalability by **27%** and reducing incidents by **21%**.  
-- Secured applications with **Spring Security, OAuth2, JWT**, cutting unauthorized access incidents by **34%**.  
-- Built responsive UIs in **React + Redux** with data-driven dashboards, improving decision turnaround time by **25%**.  
-- Developed high-throughput APIs with **Node.js, Express, MongoDB**, reducing query times by **29%**.  
-- Deployed containerized workloads on **AWS (EC2, S3, Lambda)** and **Heroku staging**, speeding release cycles by **22%**.  
-- Collaborated with DevOps/QA to implement caching and query optimizations, reducing latency by **31%**.  
+- ☁️ **Cloud & DevOps**
+  - AWS (EC2, S3, Lambda)
+  - CI/CD pipelines → **35% faster deployments**
+  - Docker-based microservices
 
 ---
 
-## 🌟 Selected Projects
+## 🛠️ Tech Stack
 
-### 🧠 LEO – AI-Powered Virtual Assistant
-- Designed an **AI virtual assistant** with advanced speech recognition using `Python` and `PyQt5`.  
-- Automated daily tasks via voice commands, improving personal productivity and usability.  
-- Published research: [**“LEO – The Virtual Assistance”**](https://ijsrem.com/download/leo-the-virtual-assistance/)
+### 💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
-### 💬 BaatCheeth – Real-Time Android Chat App
-- Built a **real-time chat application** using **Firebase** and **Java**.  
-- Implemented secure messaging with real-time synchronization and user authentication.
+### ⚙️ Backend & Frameworks
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot)
 
-### ♻ Recyclable Solid Waste Identifier
-- Developed ML models for **solid waste classification**, improving sorting efficiency by **15%**.  
-- Focused on model optimization, experimentation, and real-world deployment constraints.
+### 🤖 AI / GenAI
+![OpenAI](https://img.shields.io/badge/OpenAI-black?style=for-the-badge&logo=openai)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge)
+![Vector DB](https://img.shields.io/badge/pgvector-336791?style=for-the-badge)
 
-### 👨‍💻 Realtime Collaborative Coding Platform
-- Built a real-time collaborative coding environment with live updates, syntax highlighting, and version tracking.  
-- Focused on **low-latency collaboration** and seamless multi-user editing.
+### 🗄️ Databases & Caching
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis)
 
-> 🔍 Explore more in my [GitHub Repositories](https://github.com/Vineeth0502)
+### 🔄 Distributed Systems
+![Kafka](https://img.shields.io/badge/Kafka-000000?style=for-the-badge&logo=apachekafka)
+![Event Driven](https://img.shields.io/badge/Event--Driven-FF6F00?style=for-the-badge)
 
----
-
-## 🏅 Achievements
-
-- 🥇 **Hackathon Champion** — IEEE Student Hackathon winner  
-- ✍️ **Published Research** on virtual assistance and AI-driven interfaces  
-- 🎓 Certifications and leadership experience in **Blockchain Technology** and **technical event management**  
-
----
-
-## 🎯 Vision
-
-I aim to build **robust backend systems and AI-enabled products** that solve real-world problems at scale.  
-I’m especially interested in **backend for AI**, **RAG systems**, and **high-impact ML platforms** for finance and enterprise.
-
-Always open to collaborating on challenging **backend**, **AI/ML**, or **full-stack** projects.
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![CI/CD](https://img.shields.io/badge/CI/CD-0A0A0A?style=for-the-badge)
 
 ---
 
-📬 **Let’s Connect**
+## 📊 GitHub Stats
 
-- 📧 Email: [kethamvineeth@gmail.com](mailto:kethamvineeth@gmail.com)  
-- 🌐 LinkedIn: [linkedin.com/in/vineethketham](https://www.linkedin.com/in/vineethketham/)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=Vineeth0502&color=brightgreen)
+## ⚡ What I'm Currently Working On
+
+- 🧠 Scaling **AI agent workflows (multi-step reasoning systems)**
+- ⚙️ Building **high-throughput async pipelines (Celery / Temporal)**
+- 🔍 Exploring **OpenSearch + vector search hybrid systems**
+- 🤖 Improving **LLM evaluation & observability**
+
+---
+
+## 🎯 Career Focus
+
+> Building **AI-native backend systems** that are scalable, reliable, and production-ready.
+
+Interested in:
+- Agentic AI systems
+- AI infrastructure
+- High-scale backend architecture
+- Startup / founding engineer roles
+
+---
+
+## 📫 Let's Connect
+
+- 📧 Email: vineeth.k@myjobsmails.com  
+- 💼 LinkedIn: [https://www.linkedin.com/in/vineethketham/](https://www.linkedin.com/in/vineethketham/) 
+- 🌐 Portfolio: [https://vineeth-portfolio-mu.vercel.app/](https://vineeth-portfolio-mu.vercel.app/)  
+
+---
+
+⭐️ From [Vineeth Ketham](https://github.com/Vineeth0502)
