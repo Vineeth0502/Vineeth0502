@@ -1,11 +1,20 @@
-<h1 align="center">Hi 👋, I'm Vineeth Ketham</h1>
+<!-- 🔥 Animated Typing Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=35&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Vineeth+Ketham;AI+Backend+Engineer+🚀;RAG+Systems+%7C+Distributed+Systems;FastAPI+%7C+LLM+Pipelines+%7C+AWS" />
+</p>
+
+<!-- 🎨 Gradient Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0066FF&height=180&section=header&text=AI%20Backend%20Engineer&fontSize=35&fontColor=ffffff&animation=fadeIn" />
+</p>
+
 <h3 align="center">🚀 AI Backend Engineer | RAG Systems | Distributed Systems | FastAPI</h3>
 
 <p align="center">
-  <a href="mailto:vineeth.k@myjobsmails.com">Email</a> •
-  <a href="https://www.linkedin.com/">LinkedIn</a> •
-  <a href="https://github.com/">GitHub</a> •
-  <a href="https://your-portfolio.com">Portfolio</a>
+  <a href="mailto:vineeth.k@myjobsmails.com">📧 Email</a> •
+  <a href="https://www.linkedin.com/in/vineethketham/">💼 LinkedIn</a> •
+  <a href="https://github.com/Vineeth0502">💻 GitHub</a> •
+  <a href="https://vineeth-portfolio-mu.vercel.app/">🌐 Portfolio</a>
 </p>
 
 ---
@@ -24,60 +33,37 @@
 
 ## 🚀 Highlights
 
-- 🏦 **PNC Financial**
-  - Built production RAG system using **LangChain + OpenAI**
-  - Processed **2K+ documents/day**
-  - Reduced manual review by **32%**
-  - Designed **audit-compliant AI pipelines**
+### 🏦 PNC Financial
+- Built production **RAG system (LangChain + OpenAI)**
+- Processed **2K+ documents/day**
+- 📉 Reduced manual review by **32%**
+- Designed **audit-compliant AI pipelines**
 
-- ⚙️ **Distributed Systems @ Space Infolab**
-  - Built Kafka-based event pipelines → **31% less stale data**
-  - Multi-tenant SaaS architecture → **42% throughput gain**
-  - Secure APIs with OAuth2 + JWT
+### ⚙️ Space Infolab
+- Kafka pipelines → **31% less stale data**
+- Multi-tenant SaaS → **42% throughput gain**
+- Secure APIs with OAuth2 + JWT
 
-- ☁️ **Cloud & DevOps**
-  - AWS (EC2, S3, Lambda)
-  - CI/CD pipelines → **35% faster deployments**
-  - Docker-based microservices
+### ☁️ Cloud & DevOps
+- AWS (EC2, S3, Lambda)
+- CI/CD pipelines → **35% faster deployments**
+- Docker-based microservices
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-
-### ⚙️ Backend & Frameworks
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot)
-
-### 🤖 AI / GenAI
-![OpenAI](https://img.shields.io/badge/OpenAI-black?style=for-the-badge&logo=openai)
-![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge)
-![Vector DB](https://img.shields.io/badge/pgvector-336791?style=for-the-badge)
-
-### 🗄️ Databases & Caching
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis)
-
-### 🔄 Distributed Systems
-![Kafka](https://img.shields.io/badge/Kafka-000000?style=for-the-badge&logo=apachekafka)
-![Event Driven](https://img.shields.io/badge/Event--Driven-FF6F00?style=for-the-badge)
-
-### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![CI/CD](https://img.shields.io/badge/CI/CD-0A0A0A?style=for-the-badge)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,fastapi,spring,aws,docker,postgres,redis,kafka,react,ts" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vineeth0502&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vineeth0502&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Vineeth0502&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vineeth0502&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -93,21 +79,26 @@
 
 ## 🎯 Career Focus
 
-> Building **AI-native backend systems** that are scalable, reliable, and production-ready.
-
-Interested in:
-- Agentic AI systems
-- AI infrastructure
-- High-scale backend architecture
-- Startup / founding engineer roles
+> Building **AI-native backend systems** that are scalable, reliable, and production-ready 🚀
 
 ---
 
 ## 📫 Let's Connect
 
-- 📧 Email: vineeth.k@myjobsmails.com  
-- 💼 LinkedIn: [https://www.linkedin.com/in/vineethketham/](https://www.linkedin.com/in/vineethketham/) 
-- 🌐 Portfolio: [https://vineeth-portfolio-mu.vercel.app/](https://vineeth-portfolio-mu.vercel.app/)  
+<p align="center">
+  <a href="mailto:vineeth.k@myjobsmails.com">📧 Email</a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/vineethketham/">💼 LinkedIn</a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://vineeth-portfolio-mu.vercel.app/">🌐 Portfolio</a>
+</p>
+
+---
+
+<!-- 🔥 Footer Wave -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0066FF,100:00F7FF&height=120&section=footer"/>
+</p>
 
 ---
 
