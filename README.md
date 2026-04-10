@@ -1,17 +1,17 @@
 <!-- 🔥 Animated Typing Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=35&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Vineeth+Ketham;AI+Backend+Engineer+🚀;RAG+Systems+%7C+Distributed+Systems;FastAPI+%7C+LLM+Pipelines+%7C+AWS" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=35&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Vineeth+Ketham;Senior+AI+Engineer+🚀;GenAI+%7C+Agentic+Systems+%7C+RAG;LangGraph+%7C+Azure+OpenAI+%7C+Distributed+Systems" />
 </p>
 
 <!-- 🎨 Gradient Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0066FF&height=180&section=header&text=AI%20Backend%20Engineer&fontSize=35&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0066FF&height=180&section=header&text=Senior%20AI%20Engineer&fontSize=35&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<h3 align="center">🚀 AI Backend Engineer | RAG Systems | Distributed Systems | FastAPI</h3>
+<h3 align="center">🚀 Senior AI Engineer | GenAI Systems | Agentic Workflows | Distributed Systems</h3>
 
 <p align="center">
-  <a href="mailto:vineeth.k@myjobsmails.com">📧 Email</a> •
+  <a href="mailto:vineeth.k@techsmail.com">📧 Email</a> •
   <a href="https://www.linkedin.com/in/vineethketham/">💼 LinkedIn</a> •
   <a href="https://github.com/Vineeth0502">💻 GitHub</a> •
   <a href="https://vineeth-portfolio-mu.vercel.app/">🌐 Portfolio</a>
@@ -21,41 +21,64 @@
 
 ## 🧠 About Me
 
-💡 AI Backend Engineer with **4+ years experience building production-grade GenAI systems**
+💡 Senior Software Engineer with **5 years of experience building production-grade GenAI systems and distributed platforms**
 
-- 🔥 Built **RAG pipelines (FastAPI + OpenAI + pgvector)** processing 2K+ daily records  
-- ⚡ Achieved **sub-900ms latency** under concurrent LLM load  
-- 📉 Reduced manual review by **32%** in financial systems  
-- ☁️ Strong in **AWS, distributed systems, event-driven architecture**  
-- 🧩 Passionate about **agentic AI systems & scalable backend architecture**
+- 🏦 Currently building AI systems at **BlackRock (Aladdin ecosystem)** supporting large-scale financial operations  
+- 🤖 Designed **multi-agent AI workflows (LangGraph + GPT-4)** for real-world enterprise use cases  
+- 🔍 Built **hybrid RAG pipelines** improving retrieval accuracy by **31%**  
+- ⚡ Delivered **sub-900ms LLM inference systems** at scale on Kubernetes  
+- 🛡️ Focused on **LLM evaluation, guardrails, and responsible AI systems**
 
 ---
 
-## 🚀 Highlights
+## 🚀 Professional Experience Highlights
 
-### 🏦 PNC Financial
-- Built production **RAG system (LangChain + OpenAI)**
-- Processed **2K+ documents/day**
-- 📉 Reduced manual review by **32%**
-- Designed **audit-compliant AI pipelines**
+### 🏦 BlackRock — AI & GenAI Platforms
+- Built **multi-agent orchestration systems** using LangChain + LangGraph  
+- Enabled natural language access to **100+ internal APIs**  
+- 📉 Reduced analyst task resolution time by **32%**  
+- Implemented **LLM evaluation pipelines (MLflow, RAGAS, LLM-as-a-judge)**  
+- Designed **secure guardrails & prompt injection defenses**  
+- Deployed scalable **FastAPI microservices on AKS**  
 
-### ⚙️ Space Infolab
-- Kafka pipelines → **31% less stale data**
-- Multi-tenant SaaS → **42% throughput gain**
-- Secure APIs with OAuth2 + JWT
+---
 
-### ☁️ Cloud & DevOps
-- AWS (EC2, S3, Lambda)
-- CI/CD pipelines → **35% faster deployments**
-- Docker-based microservices
+### ⚙️ Space Infolab — Distributed Systems
+- Built **Spring Boot microservices + Kafka pipelines**  
+- 📈 Improved system throughput by **42%**  
+- ⚡ Reduced stale data issues by **31% using event-driven architecture**  
+- 🔐 Secured APIs with OAuth2 + JWT  
+
+---
+
+## 🧪 Featured Projects
+
+### 🧠 Agentic Financial Research Assistant
+- Built **multi-agent system (LangGraph)** with retrieval, reasoning, and reporting agents  
+- Implemented **hybrid RAG (pgvector + BM25 + reranking)**  
+- 📈 Improved answer accuracy by **38%**  
+- Integrated **LLM evaluation + CI/CD gating**
+
+---
+
+### 🤖 LLM Fine-Tuning Pipeline
+- Fine-tuned **Llama-3-8B using QLoRA (Hugging Face)**  
+- 🚀 Reduced training cost by **60%**  
+- ⚡ Achieved **180ms inference latency with vLLM**  
+- Built automated **SageMaker deployment pipelines**
 
 ---
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,fastapi,spring,aws,docker,postgres,redis,kafka,react,ts" />
-</p>
+### 🤖 AI / GenAI
+LangChain • LangGraph • RAG Pipelines • LLM Evaluation • MLflow • RAGAS • Prompt Engineering • Guardrails • Hugging Face • LoRA/QLoRA • vLLM
+
+### ⚙️ Backend & Distributed Systems
+Python • Java • FastAPI • Spring Boot • Kafka • Redis • Microservices • Event-Driven Architecture
+
+### ☁️ Cloud & DevOps
+Azure (AKS, OpenAI) • AWS (SageMaker, S3) • Kubernetes • Docker • CI/CD • Prometheus • Grafana
 
 ---
 
@@ -69,23 +92,23 @@
 
 ## ⚡ What I'm Currently Working On
 
-- 🧠 Scaling **AI agent workflows (multi-step reasoning systems)**
-- ⚙️ Building **high-throughput async pipelines (Celery / Temporal)**
-- 🔍 Exploring **OpenSearch + vector search hybrid systems**
-- 🤖 Improving **LLM evaluation & observability**
+- 🧠 Scaling **multi-agent AI systems (LangGraph orchestration)**  
+- 🔍 Improving **LLM evaluation, observability, and reliability**  
+- ⚙️ Building **high-throughput async AI pipelines**  
+- 🤖 Designing **production-ready RAG systems**
 
 ---
 
 ## 🎯 Career Focus
 
-> Building **AI-native backend systems** that are scalable, reliable, and production-ready 🚀
+> Building **AI-native backend platforms** that power real-world decision-making at scale 🚀
 
 ---
 
 ## 📫 Let's Connect
 
 <p align="center">
-  <a href="mailto:vineeth.k@myjobsmails.com">📧 Email</a>
+  <a href="mailto:vineeth.k@techsmail.com">📧 Email</a>
   &nbsp;&nbsp;•&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/vineethketham/">💼 LinkedIn</a>
   &nbsp;&nbsp;•&nbsp;&nbsp;
